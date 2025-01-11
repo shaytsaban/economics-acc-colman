@@ -20,4 +20,4 @@ Lecture 10, which took place on **9.1.2025**, is documented in:
 ### Acknowledgments
 We appreciate your engagement and commitment to making this course a success. 🎓
 
-For questions or additional resources, feel free to explore the repository further or contact the course team.
+For questions or additional resources, feel free to explore the repository further or contact Dr. Tsaban.
