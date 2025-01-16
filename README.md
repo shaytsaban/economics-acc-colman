@@ -46,6 +46,17 @@ The **first final exam** discussed in the course, including:
 
 ---
 
+## 🎥 Course Recordings  
+Revisit the entire course with this **comprehensive YouTube playlist**!  
+🖥️ **Watch all course recordings here:** [Economics ACC YouTube Playlist](https://www.youtube.com/playlist?list=PLdQWatGxaBrPGCREhBn5WEPiRICkkMZ9F)  
+
+💡 **Highlights:**  
+- 📚 Full course coverage.  
+- 🎬 Clear explanations to complement the materials in this repository.  
+- 📝 A perfect resource to review and solidify your understanding of key concepts.  
+
+---
+
 ## 🤔 How to Use This Repository:
 1. **Download Files:**  
    - Click the file name or **View raw** to download.  
@@ -60,6 +71,9 @@ The **first final exam** discussed in the course, including:
 4. **Review Final Exam #3:**  
    - Focus on **Question 16**, as started in Lecture 11, to see how the concepts are applied in exam scenarios.  
 
+5. **Watch Course Recordings:**  
+   - Refer to the YouTube playlist for additional explanations and reinforcement of the topics.  
+
 ---
 
 ## 💌 Acknowledgments:
@@ -71,6 +85,7 @@ This repository is curated by **Dr. Shay Tsaban**.
 ## 🎉 Final Notes:
 - 🕵️ Explore each file for maximum benefit.  
 - 📆 Review and practice regularly to ace the course.  
+- 🎥 Make the most of the course recordings for extra learning support.  
 - 🌟 Focus on the forex exercises and Final Exam #3 for optimal exam preparation.  
 
 ---
@@ -79,6 +94,7 @@ This repository is curated by **Dr. Shay Tsaban**.
 - 📄 [Course Notes - 2025 A - Economics C New.docx](./Course%20Notes%20-%202025%20A%20-%20Economics%20C%20New.docx)  
 - 📄 [Lectures 10, 11, 12 - FX Market - Exercises and ANS.xlsx](./Lectures%2010%2C%2011%2C%2012%20-%20FX%20Market%20-%20Exercises%20and%20ANS.xlsx)  
 - 📄 [Final Exam #3 - 9.2.2024.docx](./Final%20Exam%20%233%20-%209.2.2024.docx)  
+- 🎥 [Economics ACC YouTube Playlist](https://www.youtube.com/playlist?list=PLdQWatGxaBrPGCREhBn5WEPiRICkkMZ9F)  
 
 ---
 
